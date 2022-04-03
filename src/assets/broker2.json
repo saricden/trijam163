@@ -1,0 +1,36 @@
+{ "frames": {
+   "0": {
+    "frame": { "x": 2, "y": 2, "w": 138, "h": 199 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 8, "y": 4, "w": 134, "h": 195 },
+    "sourceSize": { "w": 150, "h": 200 },
+    "duration": 100
+   },
+   "1": {
+    "frame": { "x": 142, "y": 2, "w": 136, "h": 196 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 9, "y": 5, "w": 132, "h": 192 },
+    "sourceSize": { "w": 150, "h": 200 },
+    "duration": 100
+   }
+ },
+ "meta": {
+  "app": "http://www.aseprite.org/",
+  "version": "1.2.29-x64",
+  "image": "broker2.png",
+  "format": "RGBA8888",
+  "size": { "w": 278, "h": 201 },
+  "scale": "1",
+  "frameTags": [
+   { "name": "broker2-hype", "from": 0, "to": 0, "direction": "forward" },
+   { "name": "broker2-sad", "from": 1, "to": 1, "direction": "forward" }
+  ],
+  "layers": [
+   { "name": "Layer 1", "opacity": 255, "blendMode": "normal" }
+  ],
+  "slices": [
+  ]
+ }
+}
